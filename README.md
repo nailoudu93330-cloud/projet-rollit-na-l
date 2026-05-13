@@ -106,3 +106,17 @@ Remarques finales
 
 Le jeu Pick Tok est fonctionnel et conforme aux attentes du projet.
 Ce projet nous a permis de mettre en pratique les notions vues en cours, de travailler en équipe et de développer une application complète en Python.
+
+
+
+
+https://github.com/user-attachments/assets/91c987c9-79af-4023-98d8-753717f5acf6
+
+
+
+
+
+
+
+
+
